@@ -83,7 +83,7 @@ class LivePortraitPipeline(object):
 
         if flag_load_from_template:
             # NOTE: load from template, it is fast, but the cropping video is None
-            log(f"Load from template: {args.driving_info}, NOT the video, so the cropping video and audio are both NULL.", style='bold green')
+            log(f"Load from template: {args.driving_info}, NOT the video, so the cropping video and audio are both NULL.")
             template_dct = load(args.driving_info)
             n_frames = template_dct['n_frames']
 
@@ -245,7 +245,7 @@ class LivePortraitPipeline(object):
 
         # final log
         if wfp_template not in (None, ''):
-            log(f'Animated template: {wfp_template}, you can specify `-d` argument with this template path next time to avoid cropping video, motion making and protecting privacy.', style='bold green')
+            log(f'Animated template: {wfp_template}, you can specify `-d` argument with this template path next time to avoid cropping video, motion making and protecting privacy.')
         log(f'Animated video: {wfp}')
         log(f'Animated video with concact: {wfp_concat}')
 
