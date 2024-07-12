@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
     <div>
-        <table width="100%"><tr><td width="20%"><img src="/file=Btubel.png"></td><td align="center"><h1>بسيطة تيوب <br />كيف تجعل صورك تتكلم؟ - غير شكلك في الفيديو بدون ظهور  colab -- Live Portrait<br/><br/>
+        <table width="100%" border="0" align="center"><tr><td width="20%"><img src="/file=Btubel.png"></td><td align="center"><h1 align="center">بسيطة تيوب <br />كيف تجعل صورك تتكلم؟ - غير شكلك في الفيديو بدون ظهور  colab -- Live Portrait<br/><br/>
             أشترك فى قناة بسيطة تيوب للمزيد من فيديوهات التكنولوجيا و الذكاء الاصطناعى<br><a href="https://www.youtube.com/@basetatube/?sub_confirmation=1" target="_blank">أشترك الأن</a><br/>
             </h1></td></tr></table>
         <div style="display: flex; justify-content: center; align-items: center; text-align: center;>
